@@ -1,0 +1,37 @@
+  [
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-vector/handsome-man-face-cartoon_1308-150481.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1709424000&semt=ais",
+      "name": "Rahul Singh",
+      "role": "Web Developer",
+      "about": "Experienced web developer with expertise in front-end technologies such as HTML, CSS, and JavaScript. Experienced web developer with expertise in front-end technologies such as HTML, CSS, and JavaScript."
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqP16y60I6oHKxocKsbAZLqNWE8JCuiOEwl8aUQs8lufZb--mIlqLMFQUrOUQsWaPnVhQ&usqp=CAU",
+      "name": "Dev Soni",
+      "role": "Android Developer",
+      "about": "Passionate Android developer with a focus on creating user-friendly and efficient mobile applications. Passionate Android developer with a focus on creating user-friendly and efficient mobile applications"
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB0L-FML8C063-M1lLAEzBQIG11UxrUT0H2w2Ojie_vt3llOhGH5xTa9--3t_wrvdKOQI&usqp=CAU",
+      "name": "Ajay Mishra",
+      "role": "iOS Developer",
+      "about": "Skilled iOS developer specializing in building robust and intuitive applications for Apple devices. Skilled iOS developer specializing in building robust and intuitive applications for Apple devices."
+    },
+    {
+      "id": 4,
+      "image": "https://www.shutterstock.com/image-vector/illustration-face-boy-on-white-260nw-123780619.jpg",
+      "name": "Agam Bajaj",
+      "role": "Web Developer",
+      "about": "Creative web developer proficient in modern frameworks and techniques for building responsive websites. Creative web developer proficient in modern frameworks and techniques for building responsive websites."
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-vector/boy-head-with-brown-hair-brown-eyes_1308-150489.jpg?size=626&ext=jpg&ga=GA1.1.1395880969.1710201600&semt=ais",
+      "name": "jaskeerat",
+      "role": "Android Developer",
+      "about": "Innovative Android developer with a knack for solving complex problems and delivering high-quality apps. Innovative Android developer with a knack for solving complex problems and delivering high-quality apps."
+    }
+  ]
